@@ -29,8 +29,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Live Code](https://your-solution-url.com)
-- Live Site URL: [QR code component solution glitch](https://qr-code-component-solution.glitch.me)
+- Solution URL: [Solution frontendmentor](https://www.frontendmentor.io/solutions/qr-code-component-solution-2x1DBAo5Cq)
+- Live Site URL: [QR code component solution github pages](https://leamsi-ciber.github.io/qr-code-component-main/)
 
 ## My process
 
